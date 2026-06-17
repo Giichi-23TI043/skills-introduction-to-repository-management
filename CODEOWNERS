@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Giichi-23TI043
+/src/backend/database.py      @Giichi-23TI043
+/src/backend/routers/auth.py  @Giichi-23TI043
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Giichi-23TI043
